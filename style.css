@@ -57,14 +57,14 @@
 
 }
 .navbar .menu li a:hover{
-	color: red;
+	color: white;
 }
 /*Style for Home Section */
 .home{
 	display: flex;
 	background: url("Img/Purple.jpeg") repeat center;
 	height: 100vh;
-	color: red;
+	color: white;
 	min-height: 500px;
 	max-height: 720px;
 	background-size: cover;
@@ -108,7 +108,7 @@ section{
 }
 .about{
 	display: flex;
-	background: url("images/kish3.jpg") repeat center;
+	background: url("Img/Purple.jpeg") repeat center;
 	background-size: cover;
 	background-attachment: scroll;
 	font-family: 'Montserrat', sans-serif;
