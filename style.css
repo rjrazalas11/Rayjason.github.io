@@ -16,12 +16,12 @@
 	width: 100%;
 	padding: 15px 0;
 	font-family: 'Montserrat', sans-serif;
-	background: tomato;
+	background: Rebeccapurple;
 	z-index: 1;
 }
 .navbar .sticky{
 	padding: 15px;
-	background: tomato;
+	background: Rebeccapurple;
 
 }
 .navbar .max-width{
