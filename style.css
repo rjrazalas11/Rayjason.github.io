@@ -62,7 +62,7 @@
 /*Style for Home Section */
 .home{
 	display: flex;
-	background: url("images/Kish1.jpg") repeat center;
+	background: url("Img/Purple.jpeg") repeat center;
 	height: 100vh;
 	color: red;
 	min-height: 500px;
