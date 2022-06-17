@@ -269,7 +269,7 @@ section{
 	height: 100%;
 	left: 0;
 	right: 0;
-background: tomato;
+background: Rebeccapurple;
 
 }
 .skills-content .right .HTML5::before{
@@ -314,7 +314,7 @@ background: tomato;
 
 }
 .contact .contact-content .column .text{
-	color: tomato;
+	color: Rebeccapurple;
 	font-size: 25px;
 	font-weight: 600;
 	margin: 10px 0;	
