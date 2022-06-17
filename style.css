@@ -35,13 +35,13 @@
 	font-weight: 600;
 }
 .navbar .logo a:hover{
-	color: green;
+	color: white;
 }
 .navbar .logo a span{
 	color: white;
 }
 .navbar .logo a span:hover{
-	color: pink;
+	color: white;
 }
 .navbar .menu li{
 	list-style: none;
